@@ -21,8 +21,8 @@ const OUTPUT_DIR = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
 const POEM = [
   'The View from the Desk',
   '',
-  'The morning light came in through tall windows',
-  'and fell on rows of boys in rows of desks,',
+  'Morning light fell through the tall windows',
+  'on rows of boys in rows of desks,',
   'each one reciting lines that others wrote,',
   'each one afraid to ask who held the pen.',
   '',
